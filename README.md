@@ -14,24 +14,24 @@ https://prnt.sc/1GEfT2YPPgk5
 
 Depois que o dispositivo for criado, crie uma nova variável renomeando a variável para "meu sensor".
 
-![image](https://prnt.sc/LNK2LyK7fJAN)
+https://prnt.sc/LNK2LyK7fJAN
 
 ## Passo 3: Criação de Painéis
 
 Vamos configurar um painel do Ubidots. Para criá-lo, vá para a seção Dashboard (Dados > Dashboard)
 
-![image](https://prnt.sc/W01bM9kDNt19)
+https://prnt.sc/W01bM9kDNt19
 
 ## Passo 4: Adicionar Novos Widgets
 
 Clique no sinal + no lado direito e em “Adicionar novo widget” e selecione seu widget.
 
-![image](https://prnt.sc/LBbJoNTFCrqm)
+https://prnt.sc/LBbJoNTFCrqm
 
 Agora, selecione o tipo de widget que deseja exibir. No meu caso, escolho o “Indicador” e “Histograma”:
 
-![image](https://prnt.sc/1ogjxtNiKQjG)
+https://prnt.sc/1ogjxtNiKQjG
 
 Selecione seu dispositivo e variáveis criadas anteriormente, conforme mostrado na figura abaixo.
 
-![image](https://prnt.sc/JDDguziXC1UJ)
+https://prnt.sc/JDDguziXC1UJ
