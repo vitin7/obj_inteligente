@@ -10,7 +10,7 @@ Para começar a enviar dados para a nuvem e visualizá-los, vamos configurar uma
 
 Agora configure um dispositivo Ubidots. Para criá-lo, vá para a seção Dispositivos (Dispositivos > Dispositivos). Crie um novo dispositivo com o nome que preferir.
 
-![image](https://prnt.sc/1GEfT2YPPgk5)
+https://prnt.sc/1GEfT2YPPgk5
 
 Depois que o dispositivo for criado, crie uma nova variável renomeando a variável para "meu sensor".
 
